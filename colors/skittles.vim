@@ -11,7 +11,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-let colors_name = "harlequin"
+let colors_name = "skittles"
 
 let s:text = '#F8F8F2'
 let s:text_bg = '#141414'
