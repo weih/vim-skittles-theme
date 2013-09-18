@@ -10,4 +10,4 @@ Pull requests welcome. Please open issues if you find something that looks wonky
 #Screenshots
 a little garish because it's skittles!
 
-![](https://github.com/weih/vim-skittles-theme/blob/master/screenshots.jpg)
+<img src="https://github.com/weih/vim-skittles-theme/blob/master/screenshots.jpg" />
