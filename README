@@ -1,26 +1,16 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=4195
+# Description
 
-- dark background, warm colors, high contrast, but nothing too garish
-- everything that's constantly on screen and not code is low key
-- not too many very different colors in close proximity
+A GUI only color scheme based on harlequni(https://github.com/vim-scripts/harlequin)
 
-contribute
---------------
 
-https://github.com/nielsmadan/harlequin
+#Contribute
 
 Pull requests welcome. Please open issues if you find something that looks wonky.
 
-screenshots
------------------
+#Screenshots
+a little garish because it's skittles!
 
-Python: http://i.imgur.com/IX2F1.png
+#Languges supported: 
 
-C: http://i.imgur.com/ODbCD.png
-
-Clojure: http://i.imgur.com/LoUNY.png
-
-Diffmode: http://i.imgur.com/7GlFM.png
-
-Languges supported: C, python, ruby, javascript, clojure, scala, vimscript, xml, html, and css
+C, python, ruby, javascript, clojure, scala, vimscript, xml, html, and css
 Plugins supported: minibufexplorer, vim-easymotion, vimdiff, CtrlP
