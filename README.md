@@ -1,6 +1,9 @@
 # Description
 
-A GUI only color scheme based on harlequni(https://github.com/vim-scripts/harlequin). mainly for Ruby, Javascript.
+A GUI only color scheme based on harlequni(https://github.com/vim-scripts/harlequin).
+
+# Language
+Mainly for Ruby, Javascript, Html, Css.
 
 
 #Contribute
